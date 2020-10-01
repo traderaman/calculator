@@ -1,3 +1,4 @@
+#Calculator
 print("Hey dude! I love calculating;)")
 print\
 ('1.Add; 2.Substract; 3.Multiply or 4.Divide?')
