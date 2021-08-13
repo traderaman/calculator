@@ -1,7 +1,6 @@
 #Calculator
 print("Hey dude! I love calculating;)")
-print\
-('1.Add; 2.Substract; 3.Multiply or 4.Divide?')
+print('1.Add; 2.Substract; 3.Multiply or 4.Divide?')
 cal = (input("What do you want me to do: "))
 if cal == '1':
     a = float((input('Okay, insert first number: ')))
